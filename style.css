@@ -5,5 +5,7 @@
 }
 
 #indices > use {
+  stroke-linecap: round;
   stroke: #306f91;
+  stroke-width: 1;
 }
