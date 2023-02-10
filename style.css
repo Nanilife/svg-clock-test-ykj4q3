@@ -25,7 +25,7 @@
 
 #seconds {
   stroke: #c32e04;
-  animation: rotateSecondHand 0.5s steps(60) infinite;
+  animation: rotateSecondHand 0.5s  infinite;
 }
 
 @keyframes rotateSecondHand {
@@ -33,3 +33,4 @@
     transform: rotate(360deg);
   }
 }
+
