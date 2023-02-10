@@ -21,7 +21,7 @@
 #minutes {
   stroke: #306f91;
   stroke-width: 2;
-  animation: rotateSecondHand 60s steps(60) infinite;
+  animation: rotateSecondHand 360s steps(60) infinite;
 }
 @keyframes rotateMinuteHand {
   to {
