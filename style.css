@@ -21,12 +21,19 @@
 #minutes {
   stroke: #306f91;
   stroke-width: 2;
+  animation: rotateSecondHand 60s steps(60) infinite;
 }
+@keyframes rotateMinuteHand {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 
 #seconds {
   stroke: #c32e04;
   animation: rotateSecondHand 60s steps(60) infinite;
-}
+}  
 
 @keyframes rotateSecondHand {
   to {
