@@ -1,3 +1,5 @@
 #clockface {
   fill: #b1c35ff3;
+  stroke: black;
+  stroke-width: 2;
 }
