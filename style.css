@@ -9,3 +9,7 @@
   stroke: #306f91;
   stroke-width: 1;
 }
+
+#indices > use:nth-child(3n + 3) {
+  stroke-width: 3;
+}
