@@ -10,6 +10,6 @@
   stroke-width: 1;
 }
 
-#indices > use:nth-child(3n + 3) {
+#indices > use:nth-child(3n + 1) {
   stroke-width: 3;
 }
