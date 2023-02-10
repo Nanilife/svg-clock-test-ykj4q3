@@ -16,5 +16,9 @@
 
 #hours {
   stroke: #306f91;
+  stroke-width: 4;
+}
+#minutes {
+  stroke: #306f91;
   stroke-width: 2;
 }
