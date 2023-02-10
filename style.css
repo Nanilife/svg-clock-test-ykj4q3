@@ -25,5 +25,5 @@
 
 #seconds {
   stroke: #c32e04;
-  transform: rotate(calc(25 * 6deg));
+  transform: rotate(calc(30 * 6deg));
 }
