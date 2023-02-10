@@ -13,3 +13,8 @@
 #indices > use:nth-child(3n + 1) {
   stroke-width: 5;
 }
+
+#hours {
+  stroke: #306f91;
+  stroke-width: 2;
+}
