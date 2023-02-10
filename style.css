@@ -11,5 +11,5 @@
 }
 
 #indices > use:nth-child(3n + 1) {
-  stroke-width: 3;
+  stroke-width: 5;
 }
