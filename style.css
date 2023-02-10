@@ -4,6 +4,6 @@
   stroke-width: 2;
 }
 
-#index {
+#indices > use {
   stroke: #306f91;
 }
